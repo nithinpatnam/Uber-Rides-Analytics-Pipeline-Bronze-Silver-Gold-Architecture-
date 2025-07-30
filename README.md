@@ -1,3 +1,5 @@
+# UBER RIDES ANALYTICS PIPELINE (BRONZE-SILVER-GOLD ARCHITECTURE)
+
 Built end-to-end SQL data pipeline processing 2M+ records across 3 layers: Bronze (raw),
 Silver (cleansed), Gold (aggregated)
 
